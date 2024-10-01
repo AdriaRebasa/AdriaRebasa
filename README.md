@@ -2,9 +2,9 @@
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning DAM
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me, don't
+- 📫 How to reach me: Just don't
 - 😄 Pronouns: All
-- ⚡ Fun fact: 🥝
+- ⚡ Fun fact: 🚩
 
 <!---
 AdriaRebasa/AdriaRebasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
